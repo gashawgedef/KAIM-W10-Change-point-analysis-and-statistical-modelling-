@@ -4,3 +4,6 @@ seaborn
 pymc
 numpy
 statsmodels
+tensorflow
+flask           # For Task 3: Flask backend API
+scikit-learn    # For MinMaxScaler in LSTM (Task 2 advanced models)
